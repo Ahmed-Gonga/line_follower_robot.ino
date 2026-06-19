@@ -37,4 +37,4 @@ The IR sensors detect the black line on a light surface. Based on the sensor rea
 
 ## Author
 
-Ahmed Hesham
+Ahmed Wahba
